@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import ResumePage from './components/ResumePage'
 import NavBar from './components/NavBar'
 
